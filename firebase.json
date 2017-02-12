@@ -4,11 +4,15 @@
   },
   "hosting": {
     "public": "public",
+    "ignore": [
+      "**/jquery-ui.js"
+    ],
     "rewrites": [
       {
         "source": "**",
         "destination": "/index.html"
       }
+
     ]
   }
 }
