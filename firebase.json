@@ -49,7 +49,7 @@
       "**/t7.jpg",
       "**/t8.jpg",
       "**/t9.jpg",
-      "**/xyz.jpg",
+      "**/xyz.jpg"
     ],
     "rewrites": [
       {
